@@ -38,7 +38,6 @@
 
 
 
-;
 const myUser = document.getElementById("Text");
 const myEmail = document.getElementById("email")
 const login = document.getElementById("login");
