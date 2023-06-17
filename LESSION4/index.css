@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+.search_wrapper{
+    margin: 5rem auto 0;
+    width: 50%;
+}
+
+.search_wrapper > input{
+    width: 100%;
+    padding: 0.5rem 1rem;
+    border: 1px solid gainsboro;
+    border-radius: 0.5rem;
+}

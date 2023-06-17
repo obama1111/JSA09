@@ -1,0 +1,41 @@
+*{
+    margin: 0; 
+}
+
+#mydiv{
+    width: 30em;
+    height: 15em;
+    background-color: crimson;
+    margin: 15em 35% 0;
+    border-radius: 0.5em;
+}
+
+#login{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 0.5em;
+    align-items: center;
+    font-size: 3em;
+}
+
+#Text{
+    width: 25em;
+    height: 2em;
+    border-radius: 0.5em;
+
+}
+
+#email{
+    width: 25em;
+    height: 2em;
+    border-radius: 0.5em;
+
+}
+
+#btn{
+    width: 25em;
+    border-radius: 0.5em;
+    height: 3em;
+    cursor: pointer;
+}
